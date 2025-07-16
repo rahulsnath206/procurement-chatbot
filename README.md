@@ -1,6 +1,11 @@
 # 🛒 Procurement AI Assistant
 
-**An interactive AI-powered chatbot for procurement teams, built with Streamlit, LangChain, and OpenAI.**  
+**An interactive AI-powered chatbot for procurement teams, built with Streamlit, LangChain, and OpenAI.** 
+
+## 🌐 Live App
+
+Try the app here: [https://procurement-chatbot-rahul.streamlit.app/](https://procurement-chatbot-rahul.streamlit.app/)
+ 
 
 ---
 
