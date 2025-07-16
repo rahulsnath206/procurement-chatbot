@@ -71,6 +71,16 @@
 4. Set your OpenAI API key in “Secrets” on Streamlit Cloud
 5. Click “Deploy” and share your public app link!
 
+
+---
+## 🤝 Contributing
+
+1. Fork this repository  
+2. Create your feature branch  
+3. Commit your changes  
+4. Push to your branch  
+5. Open a Pull Request  
+
 ---
 
 ## 📄 Example Use Cases
@@ -79,6 +89,12 @@
 - “How do I onboard a new supplier?”
 - “Compare these two supplier quotes: A is cheaper, B is faster.”
 - “Summarize the key risks in this procurement contract PDF.”
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file.
 
 ---
 
